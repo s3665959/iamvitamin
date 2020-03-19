@@ -1,0 +1,11 @@
+.card-list {
+    margin: 0 auto;
+    display: grid;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+img {
+    max-width: 100%;
+    height: auto; 
+  }
